@@ -1,4 +1,4 @@
-<img width="643" height="822" alt="pagina_inicial" src="https://github.com/user-attachments/assets/1333773c-62ee-429f-ae97-b83a9a140832" />
+
 # 🧠 Sistema Web para Triagem e Orientação em Saúde Mental
 
 ## 📌 Sobre o Projeto
@@ -42,13 +42,15 @@ A aplicação permite que o usuário responda um questionário interativo e rece
 
 ## ❓ Questionário
 
-*(Adicionar print do questionário aqui)*
+<img width="682" height="820" alt="triagem" src="https://github.com/user-attachments/assets/ec8289b7-4044-41fa-8a94-e85fd0fb30e1" />
+
 
 ---
 
 ## 💡 Resultado das Recomendações
 
-*(Adicionar print do resultado aqui)*
+<img width="476" height="890" alt="recomendacao_emocionaç" src="https://github.com/user-attachments/assets/d9ad14b8-12b1-49a0-aed6-9602f8c45a36" />
+
 
 ---
 
