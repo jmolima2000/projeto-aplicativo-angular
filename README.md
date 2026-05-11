@@ -37,8 +37,7 @@ A aplicação permite que o usuário responda um questionário interativo e rece
 
 ## 🏠 Tela Inicial
 
-*(Adicionar print da tela inicial aqui)*
-
+<img width="643" height="822" alt="pagina_inicial" src="https://github.com/user-attachments/assets/1333773c-62ee-429f-ae97-b83a9a140832" />
 ---
 
 ## ❓ Questionário
