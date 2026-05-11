@@ -1,59 +1,68 @@
-# AplicativoSaude
+# 🧠 Sistema Web para Triagem e Orientação em Saúde Mental
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.10.
+## 📌 Sobre o Projeto
 
-## Development server
+Este projeto consiste no desenvolvimento de uma aplicação web voltada para triagem e orientação inicial em saúde mental. O sistema foi desenvolvido utilizando Angular, HTML, CSS e TypeScript, com o objetivo de auxiliar usuários na identificação inicial de sintomas relacionados à ansiedade, estresse e sobrecarga emocional.
 
-To start a local development server, run:
+A aplicação permite que o usuário responda um questionário interativo e receba recomendações iniciais com base nas respostas fornecidas.
+
+⚠️ Este sistema não substitui acompanhamento psicológico ou diagnóstico profissional. O objetivo é atuar apenas como ferramenta de apoio inicial e conscientização.
+
+---
+
+# 🚀 Tecnologias Utilizadas
+
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+- Node.js
+- Git e GitHub
+
+---
+
+# 🎯 Funcionalidades
+
+✅ Tela inicial responsiva  
+✅ Navegação entre páginas  
+✅ Questionário interativo  
+✅ Sistema de recomendações emocionais  
+✅ Interface responsiva para desktop e mobile  
+✅ Estrutura organizada utilizando componentes Angular  
+
+---
+
+# 📷 Capturas de Tela
+
+## 🏠 Tela Inicial
+
+*(Adicionar print da tela inicial aqui)*
+
+---
+
+## ❓ Questionário
+
+*(Adicionar print do questionário aqui)*
+
+---
+
+## 💡 Resultado das Recomendações
+
+*(Adicionar print do resultado aqui)*
+
+---
+
+# 📂 Estrutura do Projeto
 
 ```bash
-ng serve
-```
-
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+src/
+ ├── app/
+ │    ├── components/
+ │    ├── pages/
+ │    ├── services/
+ │    ├── models/
+ │    └── app.routes.ts
+ │
+ ├── assets/
+ ├── styles.css
+ └── main.ts
