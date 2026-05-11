@@ -1,3 +1,4 @@
+<img width="643" height="822" alt="pagina_inicial" src="https://github.com/user-attachments/assets/1333773c-62ee-429f-ae97-b83a9a140832" />
 # 🧠 Sistema Web para Triagem e Orientação em Saúde Mental
 
 ## 📌 Sobre o Projeto
